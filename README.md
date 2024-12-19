@@ -6,7 +6,7 @@ Laboratory works MAI ML course
 | Laboratory work |            Topic             | Option |
 |:---------------:|:----------------------------:|:------:|
 | [№1](labs/lab1) | Numpy, Pandas, Visualization |   2    |
-|     [№2]()      |              -               |   -    |
+|     [№2](labs/lab2)      |              Classification               |   not    |
 |     [№3]()      |              -               |   -    |
 
 
